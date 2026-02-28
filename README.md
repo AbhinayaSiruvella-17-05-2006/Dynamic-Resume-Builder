@@ -12,6 +12,7 @@ This application allows users to dynamically create, edit, and export a professi
 ---
 
 ✨ Features
+
 🎨 Animated Landing Page
 
 Gradient animated background
